@@ -2,6 +2,8 @@
 
 APIFINY CONNECT OPENAPI 2.0 Client written in Python 3.
 
+API documentation: https://doc.apifiny.com/connect/#introduction
+
 UNOFFICIAL - USE THIS AT YOUR RISK
 
 Apifiny API Integration - One time integration, trade on 30+ (coinbase, huobi, binance, kucoin, FTX with low commission account) 
