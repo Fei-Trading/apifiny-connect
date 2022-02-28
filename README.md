@@ -29,6 +29,8 @@ Current feature list:
 #### 1. Set Your Account
 Use the referral code 9QE to sign up and you can enjoy 0 fees for trading automatically. 
 
+![sign-up](img/sign-up.png)
+
 Click here - https://clients.apifiny.com/create-account?inviteCode=9QE
 
 
@@ -41,8 +43,12 @@ Click here - https://clients.apifiny.com/create-account?inviteCode=9QE
 
 ③ Click Generate API and select permissions
 
+![create-key](img/create-key.png)
+
 
 
 ##### 3. Connect with Exchanges 
 
 The first time you use it, you should activate your account by clicking the “trade” button.
+
+![connect](img/connect.png)
