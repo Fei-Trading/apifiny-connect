@@ -8,7 +8,7 @@ API documentation
 
 UNOFFICIAL - USE THIS AT YOUR RISK
 
-Apifiny API Integration - One time integration, trade on 30+ (coinbase, huobi, binance, kucoin, FTX with low commission account) 
+Apifiny API Integration - One time integration, trade on 30+ (coinbase, huobi, binance, kucoin, FTX with low commission account). 
 
 This is used to connect and trade with Apifiny.com, which is a broker platform allowing trading multiple global exchanges with one single account. They also have a dashboard/GUI for transfer, deposit and withdrawal.
 
